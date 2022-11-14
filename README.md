@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dev-julianseguil
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Python and APIs
+- 📫 How to reach me on julianseguil.com.ar
